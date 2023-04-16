@@ -67,7 +67,3 @@ You need to assess and explain the potential financial benefit of your project t
 Make appropriate assumptions about the numbers wherever needed (e.g., the potential average credit loss per default, etc.). Present your analysis and recommendations in a PowerPoint presentation.  
 
  
-
-## Resources for the project
-https://www.listendata.com/2015/03/weight-of-evidence-woe-and-information.html
- 
